@@ -1,4 +1,4 @@
-# cinema_booking
+# GDG Hackaton
 
 A new Flutter module project.
 
